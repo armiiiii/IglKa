@@ -10,3 +10,5 @@ You can contact me with my email - superigorek74@gmail.com
 
 Now I am working on few basic pet-projects that I will post here for my portfolio.
 I would be happy if you would contact me. :)
+
+upd: I am now coding SW for my dad company(basic SW to communicate inside company). I will post it as soon as I finish first version of it(It would be terrible).
