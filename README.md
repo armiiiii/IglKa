@@ -1,3 +1,3 @@
 IglKa
 
-Learning full stack web-development with Django
+Learning full stack web-development with Django and other frameworks
