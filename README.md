@@ -7,7 +7,6 @@ ________________________________________________________________________________
 
 <!--START_SECTION:waka-->
 name: Waka Readme
-
 on:
   schedule:
     # Runs at 12am IST
